@@ -1,3 +1,3 @@
-This folder contains all the resposive web design category of my freecodecampcamp profile
+This folder contains all the projects of Resposive Web Design category of my FreeCodeCamp's profile
 
 https://freecodecamp.com/motdde
