@@ -1,0 +1,64 @@
+/* @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"); */
+
+body {
+
+    width: 100%;
+    background: url("https://images.unsplash.com/photo-1529465230221-a0d10e46fcbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80")
+      no-repeat fixed center;
+    background-size: cover;
+  }
+  
+  #main{
+    background:white;
+    width:50%;
+    max-width:800px;
+    margin: 10px auto;
+  
+    opacity:0.8;
+    padding:20px;
+  }
+  
+  #title{
+    text-align:center;
+    margin-bottom:2px;
+  }
+  
+  #description {
+    text-align:center;
+    margin-top:0px
+  }
+  
+  .form-row{
+    margin-bottom:20px;
+  }
+  
+  input:not([type="checkbox"]):not([type="radio"]){
+    width:30%;
+  }
+  
+  select{
+    width:30%;
+  }
+  .checkbox-section{
+    display:inline-block;
+  }
+  .checkbox-section > [type="checkbox"] {
+    display:inline-block;
+  }
+  
+  textarea{
+    vertical-align:text-top;
+  }
+  
+  button{
+    display:block;
+    margin: 0 auto;
+    margin-top:20px;
+  }
+  
+  label{
+    display:inline-block;
+    width: 40%;
+    text-align: right;
+  }
+  
